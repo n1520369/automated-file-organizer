@@ -1,0 +1,5 @@
+sample.pdf
+resume.docx
+photo.jpg
+movie.mp4
+archive.zip
